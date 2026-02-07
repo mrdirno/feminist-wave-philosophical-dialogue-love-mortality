@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_philosophical_dialogue_love_mortality",
+  "title": "The Heart is a Locked Room",
+  "tagline": "Two philosophers debate love, death, and liberation across a crowded room, only to find the answers in the silence between their words.",
+  "target_words": 70000,
+  "actual_words": 72260,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Materiality of Emotion",
+    "Mortality as Privilege vs. Universal Truth",
+    "Intellectual Intimacy as a Form of Revolution",
+    "The Body as the Ultimate Philosophical Text"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Argument of Rain",
+      "words": 3000
+    },
+    {
+      "ch": 2,
+      "title": "A Hypothesis Stated Aloud",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Malt and the Metal",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Footnotes in the Fog",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "The Porcelain Vase",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Synthesis",
+      "words": 2800
+    },
+    {
+      "ch": 7,
+      "title": "The Annotator's Ghost",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "Kant on a Napkin",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "A Lecture on Absence",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Biology of a Quill",
+      "words": 3020
+    },
+    {
+      "ch": 11,
+      "title": "Condemned Bridges",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Thirty-Third Chapter",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "Elegy for a Steam Engine",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "The Nature of the Cage",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "Field Study: A Dying Idea",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "Peer Review",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "The Universal Truth of Failure",
+      "words": 2850
+    },
+    {
+      "ch": 18,
+      "title": "Data Set: One Breath",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "Thesis, Interrupted",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Trolley Problem, Applied",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "A Verb Meaning 'To Transcend'",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "The Political Negotiation of Space",
+      "words": 3050
+    },
+    {
+      "ch": 23,
+      "title": "Antithesis",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "The Unwritten Margin",
+      "words": 3200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where two intellectuals, fiercely opposed in theory, must collaborate on a mundane, physical task (e.g., fixing a leak, assembling furniture), forcing their abstract debate into the realm of the tactile.",
+      "Create a monologue from the perspective of a historical feminist text (like the Wollstonecraft book) observing the two protagonists and commenting on their modern struggles.",
+      "Imagine a 'philosophical ghost story' where a concept one of them is studying (e.g., Keats's mortality, Wollstonecraft's 'heart') begins to manifest in their shared environment.",
+      "Write a letter from Elara to Leo (or vice versa) ten years after the events of the novel, reflecting on whether their 'exquisite vandalism' was a success or a failure."
+    ],
+    "technical": [
+      "Build a 'Dialectic Engine' web app that allows two users to have a real-time, structured debate. The interface forces them to label their statements as Thesis, Antithesis, or Synthesis, and visualizes the conversation as a branching tree of ideas.",
+      "Create an AI-text analysis tool that scans a manuscript and identifies the 'academic voice' (jargon, citation density, rhetorical style) of characters, then generates a short, contrasting dialogue in their distinct voices on a new topic."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Simone de Beauvoir",
+      "John Keats",
+      "Zadie Smith",
+      "David Foster Wallace"
+    ]
+  },
+  "cover_prompt": "Two philosophers, a man and a woman, caught in a silent, intense gaze across the palpable space of a grand, decaying library, their hands resting on separate tables covered in open books and scattered papers, the air thick with unsaid arguments and magnetic tension, within the atmospheric setting of a crowded intellectual salon where other blurred figures debate in the background, yet the central pair exists in a bubble of profound quiet, surrounded by towering bookshelves, dust motes hanging in still air, and the material weight of history and thought pressing in from all sides, in the atmospheric style of Remedios Varo meets Edward Hopper, with a touch of modern poetic realism, book cover framing, centered and intimate composition, using a dramatic eye-level angle that emphasizes the charged gap between them, cinematic chiaroscuro lighting with a single strong shaft of warm, dusty light cutting through the dim room to illuminate the space between their tables, leaving their faces partially in thoughtful shadow, color palette of deep burgundy, aged parchment, charcoal grey, and muted gold, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
