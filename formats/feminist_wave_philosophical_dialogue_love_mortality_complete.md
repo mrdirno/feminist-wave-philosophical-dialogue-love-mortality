@@ -2,7 +2,8 @@
 
 ## **CHAPTER ONE**
 
-The rain on the library’s leaded glass was not a gentle tap but a relentless, pointed argument. It said: *you are inside, and the world is out here, and we are not the same.* Elara Voss heard it, and she agreed. She was inside. The world, with its wet, confusing demands, was not her jurisdiction.
+Mortality arrived for her husband on a Tuesday, while Eleanor was across town explaining to undergraduate minds why Simone de Beauvoir’s ethics demanded impossible things. The call, when it came, did not speak of death. It spoke of a fall, of ribs, of an ambulance. Her love, it seemed, would begin its final dialogue without her.
+
 
 Her jurisdiction was the book open on the walnut desk, a first edition of Mary Wollstonecraft’s *A Vindication of the Rights of Woman* that smelled of slow fire and forgotten lavender. Her pencil, sharpened to a needlepoint, hovered over a margin. Not to write, but to feel the potential of the mark. The silence in the Rare Manuscripts room was a third presence, thick and velveteen. It was broken only by the rain’s lecture and the soft, rhythmic *snick* of a page being turned, too regularly, from the other side of the long table.
 
